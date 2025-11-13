@@ -99,7 +99,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           {/* Brand */}
           <div>
-            <h3 className="font-display text-2xl font-bold mb-4">CAKLYN <br /><p className="font-display text-xl font-bold mb-2">Sweet Delight Bakery</p></h3>
+            <h3 className="font-display text-2xl font-bold mb-4">CAKLYN <br /><p className="font-display text-xl font-bold mb-4">Sweet Delight Bakery</p></h3>
             
             <p className="text-primary-100 mb-4">
               Creating moments of joy.

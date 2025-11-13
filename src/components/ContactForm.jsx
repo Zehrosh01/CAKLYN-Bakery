@@ -541,7 +541,7 @@ const ContactForm = () => {
                 <div>
                   <h4 className="font-semibold text-chocolate mb-1">Phone</h4>
                   <a 
-                    href="tel:+919876543210" 
+                    href="tel:+918080116940" 
                     className="text-gray-600 hover:text-primary-500 transition-colors block"
                   >
                     +91 80801 16940
